@@ -17,6 +17,4 @@ print ("Welcome to rock paper scissors!")
 choice = str(input("Enter rock paper, or scissors: "))
 print("You choose ", choice)
 
-print("jimmy")
-#git push -u origin <branch-name>
-#jfklsajkfladsklfjdaljk
+print("HLELO")
