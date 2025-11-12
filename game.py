@@ -25,4 +25,8 @@ print ("Welcome to rock paper scissors!")
 choice = str(input("Enter rock paper, or scissors: "))
 print("You choose ", choice)
 
+<<<<<<< HEAD
 print("HLELO")
+=======
+print("HLELO")
+>>>>>>> 2ae16db6f62a28d12d11385bdfe021bfd2666926
