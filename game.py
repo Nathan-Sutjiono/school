@@ -12,7 +12,10 @@
 
 
 #GIT PUSH -f
+import random
 
-print ("Welcome to rock paper scissors!")
-choice = str(input("Enter rock paper, or scissors: "))
-print("You choose ", choice)
+choices = ["rock", "paper", "scissors"]
+comp_choice = random.choice(choices)
+
+print("Welcome to Rock-Paper-Scissors!")
+print(f"Computer chose: {comp_choice}")
